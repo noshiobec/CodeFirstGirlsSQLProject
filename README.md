@@ -1,4 +1,3 @@
 # CodeFirstGirlsSQLProject
-This is a database for an online learning platfrm. 
-Disclaimer: The names and values used in this context are for illustration purposes only and are not based on any real-world data sets. 
 
+This database represents an online learning platform, designed to facilitate the storage and management of educational data. It is important to note that all the names and values used in this context are purely fictional and have been created solely for illustration purposes. They do not correspond to any real-world data sets or individuals. The purpose of these fictional names and values is to provide a practical example for demonstrating the functionality of the database and showcasing how data can be organized within an online learning platform. It is essential to understand that the data contained within this database does not reflect any real students, courses, instructors, or educational institutions.
